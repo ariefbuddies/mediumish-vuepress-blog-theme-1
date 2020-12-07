@@ -1,6 +1,6 @@
 module.exports = {
   title: 'Mediumish',
-  base: '/vuepress-theme-mediumish/',
+  base: 'https://optimistic-kirch-c743a1.netlify.app/',
   description: 'Blog example for Mediumish theme with VuePress',
   logo: './assets/img/logo.png',
   theme: require.resolve('../../'),
